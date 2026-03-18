@@ -85,7 +85,7 @@ A GTK4 todo app built for Hyprland. Supports folders, priority levels, Discord w
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=VardinsDev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&ring_color=cba6f7" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardinsDev&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardinsDev&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6&cache_second=1800" />
 
 <br/>
 
