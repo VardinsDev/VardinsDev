@@ -84,12 +84,12 @@ A GTK4 todo app built for Hyprland. Supports folders, priority levels, Discord w
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VardinsDev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&ring_color=cba6f7&cache_second=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardinsDev&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6&cache_second=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=VardinsDev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&ring_color=cba6f7&cache_second=1" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardinsDev&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6&cache_second=1" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VardinsDev&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=a6adc8&dates=585b70&sideNums=cdd6f4&currStreakNum=cdd6f4&cache_second=1800" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VardinsDev&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=a6adc8&dates=585b70&sideNums=cdd6f4&currStreakNum=cdd6f4&cache_second=1" />
 
 </div>
 
