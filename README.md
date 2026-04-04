@@ -58,7 +58,7 @@ val rhys = Developer(
 <tr>
 <td width="50%">
 
-**🔫 [MineGun](https://github.com/VardinsDev/minegun)** — *Minestom Firearms API*
+**🔫 [MineGun](https://github.com/AbyssalNetwork/minegun)** — *Minestom Firearms API*
 
 A reusable firearms library built on [Minestom](https://minestom.net). Implements hitscan raycasting, cooldown management, particle trails, and a clean interface-based weapon system. Designed for other Minestom developers to drop in.
 
@@ -67,7 +67,7 @@ A reusable firearms library built on [Minestom](https://minestom.net). Implement
 </td>
 <td width="50%">
 
-**⚔️ [AbyssNetwork](https://github.com/VardinsDev/AbyssNetwork)** — *Minestom*
+**⚔️ [AbyssNetwork](https://github.com/AbyssalNetwork/AbyssNetwork)** — *Minestom*
 
 A WW1-themed multiplayer shooter built in Kotlin on Minestom. Features hitscan weapons, custom health/shield boss bars, team combat, PeaceTime toggle, and a MariaDB persistence layer with dotenv credential management.
 
