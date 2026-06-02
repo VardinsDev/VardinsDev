@@ -67,7 +67,7 @@ A reusable firearms library built on [Minestom](https://minestom.net). Implement
 </td>
 <td width="50%">
 
-**⚔️ [AbyssNetwork](https://github.com/AbyssalNetwork/AbyssNetwork)** — *Minestom*
+**⚔️ [AbyssNetwork](https://github.com/AbyssalNetwork)** — *Minestom*
 
 A WW1-themed multiplayer shooter built in Kotlin on Minestom. Features hitscan weapons, custom health/shield boss bars, team combat, PeaceTime toggle, and a MariaDB persistence layer with dotenv credential management.
 
