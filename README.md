@@ -120,7 +120,7 @@ Decoupled `DataComponent` from directly extending `Codec<T>` and `StaticProtocol
 
 <div align="center">
 
-📬 [vardins@vardinsdev.org](mailto:vardins@vardinsdev.org) &nbsp;·&nbsp; 🌐 [vardinsdev.org](https://vardinsdev.org)
+📬 [contact@vardinsdev.org](mailto:vardins@vardinsdev.org) &nbsp;·&nbsp; 🌐 [vardinsdev.org](https://vardinsdev.org)
 
 <img src="https://komarev.com/ghpvc/?username=VardinsDev&style=for-the-badge&color=1e1e2e&labelColor=313244&label=Profile+Views" />
 
