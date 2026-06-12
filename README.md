@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rhys+%F0%9F%91%BE;Student+%26+Hobbyist+Developer;Open+Source+%7C+Linux+%7C+Games" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rhys+%F0%9F%91%BE;Systems+Developer+%26+Robotics+Strategist;Open+Source+%7C+Linux+%7C+Games" alt="Typing SVG" />
 <br/>
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=cba6f7)](https://archlinux.org)
@@ -11,18 +11,20 @@
 
 ### 👾 About Me
 
-```kotlin
-val rhys = Developer(
-    name     = "Rhys",
-    handle   = "VardinsDev",
-    os       = "Arch Linux + Hyprland",
-    editors  = listOf("IntelliJ IDEA", "CLion", "PyCharm", "VSCode"),
-    focus    = listOf("Game Dev", "Open Source", "Linux"),
-    languages = listOf("Kotlin", "Java", "Python", "C++"),
-    hobbies  = listOf("Gaming", "Ricing", "Building things nobody asked for"),
-    contact  = "vardins@vardinsdev.org"
-)
+```java
+Developer rhys = new Developer(
+    "Rhys",                                                      // name
+    "VardinsDev",                                                // handle
+    "Arch Linux + Hyprland",                                      // os
+    List.of("IntelliJ IDEA", "CLion", "PyCharm", "VSCode"),       // editors
+    List.of("Backend Systems", "Game Dev", "Robotics", "Open Source"), // focus
+    List.of("Java", "Go", "Python", "C++"),                       // languages
+    List.of("Gaming", "Ricing", "FTC Robotics", "Upright Bass"),  // hobbies
+    "contact@vardinsdev.org"                                      // contact
+);
 ```
+
+🌐 Portfolio: [vardinsdev.org](https://vardinsdev.org) · 📦 MineGun Docs: [minegun.vardinsdev.org](https://minegun.vardinsdev.org)
 
 ---
 
@@ -31,8 +33,8 @@ val rhys = Developer(
 <div align="center">
 
 #### Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-1e1e2e?style=for-the-badge&logo=kotlin&logoColor=cba6f7)
-![Java](https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=fab387)
+![Java](https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=coffeescript&logoColor=fab387)
+![Go](https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=89b4fa)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
 ![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=89b4fa)
 
@@ -58,11 +60,11 @@ val rhys = Developer(
 <tr>
 <td width="50%">
 
-**🔫 [MineGun](https://github.com/AbyssalNetwork/minegun)** — *Minestom Firearms API*
+**🔫 [MineGun](https://github.com/AbyssalNetwork/minegun)** — *Minestom Firearms Library*
 
-A reusable firearms library built on [Minestom](https://minestom.net). Implements hitscan raycasting, cooldown management, particle trails, and a clean interface-based weapon system. Designed for other Minestom developers to drop in.
+Firearms library for Minestom: raycasted hitscan weapons (Rifle, Rocket Launcher), a custom HP/Shield system with boss bars, cooldown management, particle trails, and a clean static-interface API. Published via JitPack with full docs site.
 
-`Java 25` `Minestom` `Library`
+`Java 25` `Minestom` `Library` · [Docs](https://minegun.vardinsdev.org)
 
 </td>
 <td width="50%">
@@ -78,7 +80,27 @@ A WW1-themed multiplayer shooter built in Kotlin on Minestom. Features hitscan w
 <tr>
 <td width="50%">
 
-**🔴 [Mastermind](https://github.com/VardinsDev/Mastermind-Arduino)** — *Arduino*
+**🧟 [ZombieShooter](https://github.com/VardinsDev/ZombieShooter)** — *Python*
+
+A zombie shooter game written in Python.
+
+`Python` `Game`
+
+</td>
+<td width="50%">
+
+**🔥 [ElvishFire](https://github.com/VardinsDev/ElvishFire)** — *2D Game Engine*
+
+An experimental 2D engine built from first principles using Java AWT and Swing, with custom rendering, timing systems, and ECS architecture.
+
+`Java` `Graphics2D` `Engine`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔴 [Mastermind-Arduino](https://github.com/VardinsDev/Mastermind-Arduino)** — *Arduino*
 
 A color sequence memory game on Arduino hardware. Uses an RGB LED and physical buttons to present and verify sequences. Includes a full Wokwi circuit simulation and wiring diagram.
 
@@ -87,15 +109,23 @@ A color sequence memory game on Arduino hardware. Uses an RGB LED and physical b
 </td>
 <td width="50%">
 
-**✅ GTK4 Todo App** — *Closed Source*
+**✅ [TaskTrackerCLI](https://github.com/VardinsDev/TaskTrackerCLIGo)** — *Go*
 
-A GTK4 todo app built for Linux. Supports folders, Discord webhook integration with bot token DM support, user mention extraction, and full Catppuccin Mocha theming.
+A command-line task tracker written in Go.
 
-`Python` `GTK4` `Discord API`
+`Go` `CLI`
 
 </td>
 </tr>
 </table>
+
+---
+
+### 🤖 Robotics
+
+**FTC Team 30526** — Autonomous lead implementing Pedro Pathing, PID tuning, and three-wheel odometry for high-speed autonomous movement and localization.
+
+`Pedro Pathing` `PID` `Odometry`
 
 ---
 
@@ -120,7 +150,7 @@ Decoupled `DataComponent` from directly extending `Codec<T>` and `StaticProtocol
 
 <div align="center">
 
-📬 [contact@vardinsdev.org](mailto:vardins@vardinsdev.org) &nbsp;·&nbsp; 🌐 [vardinsdev.org](https://vardinsdev.org)
+📬 [contact@vardinsdev.org](mailto:contact@vardinsdev.org) &nbsp;·&nbsp; 🌐 [vardinsdev.org](https://vardinsdev.org)
 
 <img src="https://komarev.com/ghpvc/?username=VardinsDev&style=for-the-badge&color=1e1e2e&labelColor=313244&label=Profile+Views" />
 
