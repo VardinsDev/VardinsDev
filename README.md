@@ -123,7 +123,7 @@ A command-line task tracker written in Go.
 
 ### 🤖 Robotics
 
-**FTC Team 30526** — Autonomous lead implementing Pedro Pathing, PID tuning, and three-wheel odometry for high-speed autonomous movement and localization.
+**FTC Team 30526** — Autonomous lead implementing Pedro Pathing, PID tuning, and pinpoint odometry for high-speed autonomous movement and localization.
 
 `Pedro Pathing` `PID` `Odometry`
 
