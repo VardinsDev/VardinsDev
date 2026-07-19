@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rhys+%F0%9F%91%BE;Systems+Developer+%26+Robotics+Strategist;Open+Source+%7C+Linux+%7C+Games" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rhys+%F0%9F%91%BE;Passionate+about+Backend+%26+Game+Dev;Open+Source+Enthusiast%3F" alt="typing">
 <br/>
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=cba6f7)](https://archlinux.org)
@@ -37,6 +37,8 @@ Developer rhys = new Developer(
 ![Go](https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=89b4fa)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
 ![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=89b4fa)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89dceb)
+![Kotlin](https://img.shields.io/badge/Kotlin-1e1e2e?style=for-the-badge&logo=kotlin&logoColor=a6e3a1)
 
 #### IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1e1e2e?style=for-the-badge&logo=intellij-idea&logoColor=e9e8ff)
@@ -54,7 +56,7 @@ Developer rhys = new Developer(
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
@@ -62,29 +64,29 @@ Developer rhys = new Developer(
 
 **🔫 [MineGun](https://github.com/AbyssalNetwork/minegun)** — *Minestom Firearms Library*
 
-Firearms library for Minestom: raycasted hitscan weapons (Rifle, Rocket Launcher), a custom HP/Shield system with boss bars, cooldown management, particle trails, and a clean static-interface API. Published via JitPack with full docs site.
+Firearms library for Minestom: raycasted hitscan weapons (Rifle, Rocket Launcher), a custom HP/Shield system with boss bars, cooldown management, particle trails, and a clean static-interface API.
 
 `Java 25` `Minestom` `Library` · [Docs](https://minegun.vardinsdev.org)
 
 </td>
 <td width="50%">
 
-**⚔️ [AbyssNetwork](https://github.com/AbyssalNetwork)** — *Minestom*
+**⚔️ [AbyssNetwork](https://github.com/AbyssalNetwork/AbyssNetwork)** — *Minestom Multiplayer Shooter*
 
-A WW1-themed multiplayer shooter built in Kotlin on Minestom. Features hitscan weapons, custom health/shield boss bars, team combat, PeaceTime toggle, and a MariaDB persistence layer with dotenv credential management.
+A WW1-themed multiplayer shooter built in Kotlin on Minestom. Features hitscan weapons, custom health/shield boss bars, team combat, PeaceTime toggle, and a MariaDB persistence layer.
 
-`Kotlin` `Minestom` `MariaDB`
+`Kotlin` `Minestom` `MariaDB` ⭐ (1 star)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🧟 [ZombieShooter](https://github.com/VardinsDev/ZombieShooter)** — *Python*
+**🧟 [ZombieShooter](https://github.com/VardinsDev/ZombieShooter)** — *Python Game*
 
 A zombie shooter game written in Python.
 
-`Python` `Game`
+`Python` `Game` ⭐ (1 star)
 
 </td>
 <td width="50%">
@@ -100,7 +102,7 @@ An experimental 2D engine built from first principles using Java AWT and Swing, 
 <tr>
 <td width="50%">
 
-**🔴 [Mastermind-Arduino](https://github.com/VardinsDev/Mastermind-Arduino)** — *Arduino*
+**🔴 [Mastermind-Arduino](https://github.com/VardinsDev/Mastermind-Arduino)** — *Arduino Game*
 
 A color sequence memory game on Arduino hardware. Uses an RGB LED and physical buttons to present and verify sequences. Includes a full Wokwi circuit simulation and wiring diagram.
 
@@ -109,7 +111,7 @@ A color sequence memory game on Arduino hardware. Uses an RGB LED and physical b
 </td>
 <td width="50%">
 
-**✅ [TaskTrackerCLI](https://github.com/VardinsDev/TaskTrackerCLIGo)** — *Go*
+**✅ [TaskTrackerCLI](https://github.com/VardinsDev/TaskTrackerCLIGo)** — *Go CLI*
 
 A command-line task tracker written in Go.
 
@@ -117,7 +119,63 @@ A command-line task tracker written in Go.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**🌐 [TurtleTracer](https://github.com/VardinsDev/TurtleTracer)** — *Pedro Pathing Visualizer*
+
+A visualizer solution for Pedro Pathing, including tons of new features and support! Checkout the docs at turtletracer.com
+
+`Svelte` `Robotics` `Visualization` 🔀 (1 fork)
+
+</td>
+<td width="50%">
+
+**⚙️ [Minestom](https://github.com/VardinsDev/Minestom)** — *1.21.11 Lightweight Minecraft Server*
+
+A high-performance Minecraft server implementation with extensive API support.
+
+`Java` `Minecraft`
+
+</td>
+</tr>
 </table>
+
+---
+
+### 📚 Other Repositories
+
+| Repository | Language | Description |
+|---|---|---|
+| [AbyssCore](https://github.com/VardinsDev/AbyssCore) | Java | Abyss network core utilities |
+| [ChicagoStateInvitationals](https://github.com/VardinsDev/ChicagoStateInvitationals) | Java | Chicago State Invitationals project |
+| [CRI-Documentation](https://github.com/VardinsDev/CRI-Documentation) | TypeScript | Documentation site |
+| [Discord-Bots](https://github.com/VardinsDev/Discord-Bots) | Python | Discord bot collection |
+| [Minestom-Server](https://github.com/VardinsDev/Minestom-Server) | Java | Minestom server implementation |
+| [NumberGuessingGame](https://github.com/VardinsDev/NumberGuessingGame) | Go | Number guessing game CLI |
+| [Portfolio](https://github.com/VardinsDev/Portfolio) | TypeScript | Personal portfolio site |
+| [Slamblock](https://github.com/VardinsDev/Slamblock) | Java | Game project ⭐ (1 star) |
+| [TaskTrackerCLI](https://github.com/VardinsDev/TaskTrackerCLI) | Python | Task tracker CLI tool |
+
+---
+
+### 📊 Repository Statistics
+
+<div align="center">
+
+**Total Repositories:** 21 | **Languages:** 8 | **Total Stars:** 3 ⭐
+
+#### Language Breakdown
+- **Java** — 8 repos (Server, Game Development, Libraries)
+- **Python** — 3 repos (Discord Bots, Game Dev, CLI Tools)
+- **Go** — 2 repos (CLI Tools)
+- **C++** — 2 repos (Hardware, Arduino Projects)
+- **TypeScript** — 2 repos (Web Documentation, Portfolio)
+- **Kotlin** — 1 repo (Game Development)
+- **Svelte** — 1 repo (Visualization)
+- **Other** — 2 repos (GitHub Pages, Config)
+
+</div>
 
 ---
 
@@ -129,7 +187,7 @@ A command-line task tracker written in Go.
 
 ---
 
-### 🌿 Open Source
+### 🌿 Open Source Contributions
 
 **[Minestom #3072](https://github.com/Minestom/Minestom/pull/3072)** — `fix/data-component-codec-separation`
 
@@ -140,10 +198,10 @@ Decoupled `DataComponent` from directly extending `Codec<T>` and `StaticProtocol
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VardinsDev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&ring_color=cba6f7&cache_second=1" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardinsDev&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6&cache_second=1" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=VardinsDev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4" alt="GitHub Stats">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardinsDev&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages">
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VardinsDev&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=a6adc8&dates=585b70&sideNums=cdd6f4&currStreakNum=cdd6f4&cache_second=1" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VardinsDev&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=a6adae" alt="GitHub Streak">
 </div>
 
 ---
