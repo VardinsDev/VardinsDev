@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rhys+%F0%9F%91%BE;Passionate+about+Backend+%26+Game+Dev;Open+Source+Enthusiast%3F" alt="typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rhys+%F0%9F%91%BE;Passionate+about+Backend+Systems+%26+Game+Dev;FTC+Robotics+Lead;Open+Source+Contributor" alt="Typing SVG" />
 <br/>
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=cba6f7)](https://archlinux.org)
-[![Hyprland](https://img.shields.io/badge/Hyprland-1e1e2e?style=for-the-badge&logo=wayland&logoColor=89b4fa)](https://hyprland.org)
+[![Gnome](https://img.shields.io/badge/Gnome-1e1e2e?style=for-the-badge&logo=gnome&logoColor=89b4fa)](https://www.gnome.org)
 [![Catppuccin](https://img.shields.io/badge/Catppuccin_Mocha-1e1e2e?style=for-the-badge&logoColor=cba6f7)](https://catppuccin.com)
 </div>
 
@@ -15,12 +15,12 @@
 Developer rhys = new Developer(
     "Rhys",                                                      // name
     "VardinsDev",                                                // handle
-    "Arch Linux + Gnome",                                      // os
-    List.of("IntelliJ IDEA", "CLion", "Android Studio", "Zed"),       // editors
+    "Arch Linux + Gnome",                                        // os
+    List.of("IntelliJ IDEA", "CLion", "Android Studio", "Zed"), // editors
     List.of("Backend Systems", "Game Dev", "Robotics", "Open Source"), // focus
-    List.of("Java", "Go", "Python", "C++"),                       // languages
+    List.of("Java", "Go", "Python", "C++"),                      // languages
     List.of("Gaming", "Ricing", "FTC Robotics", "Upright Bass", "Violin"),  // hobbies
-    "contact@vardinsdev.org"                                      // contact
+    "contact@vardinsdev.org"                                     // contact
 );
 ```
 
@@ -37,13 +37,12 @@ Developer rhys = new Developer(
 ![Go](https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=89b4fa)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
 ![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=89b4fa)
-![Kotlin](https://img.shields.io/badge/Kotlin-1e1e2e?style=for-the-badge&logo=kotlin&logoColor=a6e3a1)
 
 #### IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1e1e2e?style=for-the-badge&logo=intellij-idea&logoColor=e9e8ff)
 ![CLion](https://img.shields.io/badge/CLion-1e1e2e?style=for-the-badge&logo=clion&logoColor=94e2d5)
-![PyCharm](https://img.shields.io/badge/PyCharm-1e1e2e?style=for-the-badge&logo=pycharm&logoColor=21d789)
-![VSCode](https://img.shields.io/badge/VSCode-1e1e2e?style=for-the-badge&logo=visual-studio-code&logoColor=89b4fa)
+![Android Studio](https://img.shields.io/badge/Android_Studio-1e1e2e?style=for-the-badge&logo=android-studio&logoColor=3ddc84)
+![Zed](https://img.shields.io/badge/Zed-1e1e2e?style=for-the-badge&logo=zed&logoColor=89dceb)
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=f38ba8)
@@ -223,10 +222,10 @@ Decoupled `DataComponent` from directly extending `Codec<T>` and `StaticProtocol
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VardinsDev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4" alt="GitHub Stats">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardinsDev&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=VardinsDev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardinsDev&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VardinsDev&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=a6adae" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VardinsDev&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=a6adae" alt="GitHub Streak" />
 </div>
 
 ---
