@@ -15,11 +15,11 @@
 Developer rhys = new Developer(
     "Rhys",                                                      // name
     "VardinsDev",                                                // handle
-    "Arch Linux + Hyprland",                                      // os
-    List.of("IntelliJ IDEA", "CLion", "PyCharm", "VSCode"),       // editors
+    "Arch Linux + Gnome",                                      // os
+    List.of("IntelliJ IDEA", "CLion", "Android Studio", "Zed"),       // editors
     List.of("Backend Systems", "Game Dev", "Robotics", "Open Source"), // focus
     List.of("Java", "Go", "Python", "C++"),                       // languages
-    List.of("Gaming", "Ricing", "FTC Robotics", "Upright Bass"),  // hobbies
+    List.of("Gaming", "Ricing", "FTC Robotics", "Upright Bass", "Violin"),  // hobbies
     "contact@vardinsdev.org"                                      // contact
 );
 ```
