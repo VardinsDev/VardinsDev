@@ -37,7 +37,6 @@ Developer rhys = new Developer(
 ![Go](https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=89b4fa)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
 ![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=89b4fa)
-![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89dceb)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1e1e2e?style=for-the-badge&logo=kotlin&logoColor=a6e3a1)
 
 #### IDEs
@@ -143,7 +142,34 @@ A high-performance Minecraft server implementation with extensive API support.
 
 ---
 
-### 📚 Other Repositories
+### 🏢 Organization: [AbyssalNetwork](https://github.com/AbyssalNetwork)
+
+<table>
+<tr>
+<td width="50%">
+
+**🔫 [minegun](https://github.com/AbyssalNetwork/minegun)** — *Minestom Firearms Library*
+
+Firearms library for Minestom with raycasted hitscan weapons and custom HP/Shield systems.
+
+`Java` `Minestom` `Library`
+
+</td>
+<td width="50%">
+
+**⚔️ [AbyssNetworkKotlin](https://github.com/AbyssalNetwork/AbyssNetworkKotlin)** — *Game Server*
+
+WW1-themed multiplayer shooter implementation.
+
+`Kotlin` `Minestom`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📚 Other Personal Repositories
 
 | Repository | Language | Description |
 |---|---|---|
@@ -163,14 +189,13 @@ A high-performance Minecraft server implementation with extensive API support.
 
 <div align="center">
 
-**Total Repositories:** 21 | **Languages:** 8 | **Total Stars:** 3 ⭐
+**Personal Repositories:** 18 | **Organization Repositories:** 3 | **Languages:** 7 | **Total Stars:** 3 ⭐
 
 #### Language Breakdown
 - **Java** — 8 repos (Server, Game Development, Libraries)
 - **Python** — 3 repos (Discord Bots, Game Dev, CLI Tools)
 - **Go** — 2 repos (CLI Tools)
 - **C++** — 2 repos (Hardware, Arduino Projects)
-- **TypeScript** — 2 repos (Web Documentation, Portfolio)
 - **Kotlin** — 1 repo (Game Development)
 - **Svelte** — 1 repo (Visualization)
 - **Other** — 2 repos (GitHub Pages, Config)
