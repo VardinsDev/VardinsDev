@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rhys+%F0%9F%91%BE;Passionate+about+Backend+Systems+%26+Game+Dev;FTC+Robotics+Lead;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rhys+%F0%9F%91%BE;Passionate+about+Backend+%26+Game+Dev;FTC+Robotics+Lead;Open+Source+Contributor" alt="Typing SVG" />
 <br/>
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=cba6f7)](https://archlinux.org)
